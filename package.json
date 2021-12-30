@@ -3,6 +3,13 @@
   "version": "1.0.0",
   "description": "小程序定时器管理器",
   "main": "dist/TimerManagerBehavior.js",
+  "keywords": [
+    "setTimeout",
+    "setInterval",
+    "miniprogram",
+    "微信小程序定时器管理器",
+    "Taro"
+  ],
   "dependencies": {},
   "devDependencies": {
     "@types/node": "^17.0.5",

@@ -98,6 +98,7 @@ export default DemoCenter;
 
 ## TODO
 - [x] 支持微信小程序
+- [ ] Taro3 适配
 - [ ] 支付宝小程序适配
 
 ## eslint 配置
